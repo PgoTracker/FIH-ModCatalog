@@ -1,0 +1,2 @@
+# GitHub users who can add or change the "speedrun" rules in mods.json, one per line.
+d1ll3x3
