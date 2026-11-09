@@ -243,6 +243,19 @@
       }
     },
     {
+      "repo": "PgoTracker/SOB-mod",
+      "title": "Sum of Best",
+      "author": "PgoTracker",
+      "category": "practice",
+      "icon": "timer",
+      "speedrun": {
+        "allowed": true
+      },
+      "description": {
+        "en": "Adds a cumulative Sum of Best column to the in-game splits timer and highlights new best segments in gold."
+      }
+    },
+    {
       "repo": "d1ll3x3/ChaosIsHard",
       "title": "Chaos is Hard",
       "author": "Topper",
